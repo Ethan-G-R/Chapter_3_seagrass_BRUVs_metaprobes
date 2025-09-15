@@ -1,0 +1,1098 @@
+Tele02_primer_rm_dm_Field_C_RUN1_Tele02_concatenated																			consensus_medaka-subsampled_500-10-311
+Tele02_primer_rm_dm_Field_C_RUN1_Tele02_concatenated																			consensus_medaka-subsampled_500-10-405
+Tele02_primer_rm_dm_Field_C_RUN1_Tele02_concatenated																			consensus_medaka-subsampled_500-11-378
+Tele02_primer_rm_dm_Field_C_RUN1_Tele02_concatenated																			consensus_medaka-subsampled_500-13-161
+Tele02_primer_rm_dm_Field_C_RUN1_Tele02_concatenated																			consensus_medaka-subsampled_500-13-342
+Tele02_primer_rm_dm_Field_C_RUN1_Tele02_concatenated																			consensus_medaka-subsampled_500-15-1
+Tele02_primer_rm_dm_Field_C_RUN1_Tele02_concatenated																			consensus_medaka-subsampled_500-16-32
+Tele02_primer_rm_dm_Field_C_RUN1_Tele02_concatenated																			consensus_medaka-subsampled_500-18-126
+Tele02_primer_rm_dm_Field_C_RUN1_Tele02_concatenated																			consensus_medaka-subsampled_500-20-57
+Tele02_primer_rm_dm_Field_C_RUN1_Tele02_concatenated																			consensus_medaka-subsampled_500-26-133
+Tele02_primer_rm_dm_Field_C_RUN1_Tele02_concatenated																			consensus_medaka-subsampled_500-29-138
+Tele02_primer_rm_dm_Field_C_RUN1_Tele02_concatenated																			consensus_medaka-subsampled_500-30-18
+Tele02_primer_rm_dm_Field_C_RUN1_Tele02_concatenated																			consensus_medaka-subsampled_500-38-112
+Tele02_primer_rm_dm_Field_C_RUN1_Tele02_concatenated																			consensus_medaka-subsampled_500-440-concatenated_2nd_round_000
+Tele02_primer_rm_dm_Field_C_RUN1_Tele02_concatenated																			consensus_medaka-subsampled_500-75-concatenated_2nd_round_010
+Tele02_primer_rm_dm_Field_C_RUN1_Tele02_concatenated																			consensus_medaka-subsampled_500-76-70
+Tele02_primer_rm_dm_Field_C_RUN1_Tele02_concatenated																			consensus_medaka-subsampled_500-92-4
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-10-1151
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-10-1241
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-10-1269
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-1016-concatenated_2nd_round_021
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated	97.059	170	4	1	14	182	1	170	2.53e-79	285	182	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-10-1824
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-10-184
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-10-2011
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-10-296
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-103-147
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-10-402
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated	98.160	163	1	1	4	166	8	168	8.23e-79	283	166	168	2018537251	2018537251	Trisopterus	minutus	2018537251		consensus_medaka-subsampled_500-105-1506
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-10-604
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated	98.802	167	1	1	1	167	5	170	1.07e-82	296	168	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-10-6653
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-10-665
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-10-965
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-10-967
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-1102-concatenated_2nd_round_002
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-11-1319
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-11-1538
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-11-1930
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-11-2448
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-11-262
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated	99.401	167	1	0	11	177	1	167	6.91e-85	303	180	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-11-3067
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-11-549
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-11-723
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-11-978
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated	97.076	171	4	1	14	184	1	170	7.13e-80	287	184	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-11-989
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-120-concatenated_2nd_round_085
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-12-1165
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-12-1292
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-12-1994
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-12-226
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-12-334
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-12-4022
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-124-concatenated_2nd_round_038
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-12-603
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-12-762
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-13-1003
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-13-144
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-13-1459
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-13-1460
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-13-1782
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-131-concatenated_2nd_round_064
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-13-734
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-139-concatenated_2nd_round_045
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-14-1134
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated	97.590	166	4	0	1	166	5	170	2.29e-79	285	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-14-2443
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-14-398
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-14-4016
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated	98.246	171	1	2	14	183	1	170	3.27e-83	298	183	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-14-839
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated	98.830	171	1	1	14	184	1	170	7.08e-85	303	184	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-14-860
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-15-112
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-151-403
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-15-3380
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-15-340
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-15-384
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-154-concatenated_2nd_round_035
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-15-513
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-15-748
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-15-780
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-15-788
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-15-849
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated	98.802	167	1	1	1	167	5	170	1.06e-82	296	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-16-2513
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-16-517
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated	98.788	165	2	0	1	165	5	169	3.78e-82	294	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-17-1482
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-17-164
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated	98.193	166	3	0	1	166	5	170	4.92e-81	291	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-17-2055
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-17-383
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-183-concatenated_2nd_round_012
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-18-449
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-19-353
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated	99.412	170	1	0	13	182	1	170	1.50e-86	309	182	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-20-984
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-211-concatenated_2nd_round_023
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-22-324
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-22-622
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated	98.788	165	2	0	1	165	5	169	3.78e-82	294	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-22-867
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated	98.802	167	1	1	14	179	1	167	1.15e-82	296	179	168	2018537251	2018537251	Trisopterus	minutus	2018537251		consensus_medaka-subsampled_500-23-3258
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-23-395
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated	100.000	168	0	0	13	180	1	168	4.15e-87	311	181	168	2018537251	2018537251	Trisopterus	minutus	2018537251		consensus_medaka-subsampled_500-245-740
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-249-concatenated_2nd_round_025
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-24-concatenated_2nd_round_061
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-26-620
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-26-concatenated_2nd_round_076
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-26-concatenated_2nd_round_097
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-27-148
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-27-387
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated	99.405	168	0	1	14	180	1	168	6.91e-85	303	180	168	2018537251	2018537251	Trisopterus	minutus	2018537251		consensus_medaka-subsampled_500-28-2595
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-29-222
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated	99.398	166	1	0	1	166	5	170	2.27e-84	302	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-29-concatenated_2nd_round_089
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-33-309
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated	100.000	164	0	0	1	164	5	168	6.23e-85	303	164	168	2018537251	2018537251	Trisopterus	minutus	2018537251		consensus_medaka-subsampled_500-337-concatenated_2nd_round_054
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-34-469
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-35-concatenated_2nd_round_077
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated	98.802	167	1	1	12	177	1	167	1.13e-82	296	177	168	2018537251	2018537251	Trisopterus	minutus	2018537251		consensus_medaka-subsampled_500-37-2598
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-372-concatenated_2nd_round_034
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-37-concatenated_2nd_round_010
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-37-concatenated_2nd_round_048
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-39-174
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-40-concatenated_2nd_round_096
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated	100.000	170	0	0	12	181	1	170	3.21e-88	315	181	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-429-concatenated_2nd_round_056
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-46-754
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-48-434
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-50-concatenated_2nd_round_052
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated	100.000	166	0	0	1	166	5	170	4.88e-86	307	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-522-concatenated_2nd_round_018
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-52-613
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-58-concatenated_2nd_round_011
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-64-concatenated_2nd_round_027
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-73-concatenated_2nd_round_022
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-73-concatenated_2nd_round_033
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-76-concatenated_2nd_round_080
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-79-572
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-83-366
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-854-131
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-86-concatenated_2nd_round_062
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-91-concatenated_2nd_round_057
+Tele02_primer_rm_dm_Met_1a_Tele02_concatenated																			consensus_medaka-subsampled_500-96-concatenated_2nd_round_049
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-10-1261
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-10-1654
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-10-1997
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-10-212
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-10-268
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated	100.000	164	0	0	1	164	5	168	6.23e-85	303	164	168	2018537251	2018537251	Trisopterus	minutus	2018537251		consensus_medaka-subsampled_500-102-concatenated_2nd_round_089
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated	98.214	168	0	2	1	167	5	170	4.95e-81	291	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-10-4129
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated	99.394	165	1	0	1	165	5	169	9.10e-84	300	183	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-10-520
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-10-706
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-10-951
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-1101-concatenated_2nd_round_005
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-11-117
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-11-122
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-112-concatenated_2nd_round_002
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-11-573
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-11-680
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-11-843
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-12-1620
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-12-168
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated	100.000	165	0	0	1	165	5	169	1.75e-85	305	165	169	2018537119	2018537119	Scomber	scombrus	2018537119		consensus_medaka-subsampled_500-12-1882
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-12-3526
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated	100.000	170	0	0	14	183	1	170	3.25e-88	315	183	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-12-645
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-12-876
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-13-1169
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-13-1781
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated	100.000	170	0	0	14	183	1	170	3.25e-88	315	183	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-13-423
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-13-498
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated	100.000	166	0	0	1	166	5	170	5.44e-86	307	183	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-13-526
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-13-576
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-13-705
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-14-1241
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated	98.795	166	2	0	1	166	5	170	1.06e-82	296	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-14-1594
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-14-306
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-143-concatenated_2nd_round_057
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated	100.000	164	0	0	1	164	5	168	6.23e-85	303	164	168	1980526482	1980526482	Pholis	gunnellus	1980526482		consensus_medaka-subsampled_500-14-4590
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-14-577
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-14-699
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated	97.561	164	2	1	1	162	5	168	1.05e-77	279	164	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-14-902
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-1502-concatenated_2nd_round_015
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated	97.590	166	1	1	1	163	5	170	2.90e-78	281	163	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-15-1933
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-15-298
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-15-316
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated	96.988	166	4	1	1	165	5	170	3.80e-77	278	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-15-458
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated	97.633	169	1	1	1	169	5	170	6.53e-80	287	170	170	317423492	317423492	Pollachius	pollachius	317423492		consensus_medaka-subsampled_500-15-474
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-15-667
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated	98.193	166	3	0	1	166	5	170	4.92e-81	291	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-15-887
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-15-905
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-16-328
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-16-700
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated	93.902	164	9	1	1	164	5	167	1.08e-67	246	166	170	2018537178	2018537178	Enchelyopus	cimbrius	2018537178		consensus_medaka-subsampled_500-16-892
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-17-319
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-17-4067
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated	98.193	166	2	1	1	165	5	170	1.76e-80	289	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-17-727
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated	98.795	166	2	0	1	166	5	170	1.18e-82	296	184	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-17-87
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-17-978
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated	100.000	170	0	0	14	183	1	170	3.25e-88	315	183	170	99642101	99642101	Ctenolabrus	rupestris	99642101		consensus_medaka-subsampled_500-18-1681
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-19-171
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-20-608
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated	97.619	168	2	2	1	168	5	170	6.45e-80	287	168	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-20-691
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-20-89
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-21-3532
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated	99.401	167	0	1	1	167	5	170	2.30e-84	302	168	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-22-concatenated_2nd_round_060
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-23-455
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-243-concatenated_2nd_round_011
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-24-852
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-25-340
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-25-454
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated	98.795	166	1	1	1	166	5	169	3.80e-82	294	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-25-concatenated_2nd_round_053
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-27-concatenated_2nd_round_017
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated	99.401	167	0	1	1	167	5	170	2.29e-84	302	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-27-concatenated_2nd_round_061
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-28-132
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-30-concatenated_2nd_round_009
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-31-concatenated_2nd_round_003
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-33-concatenated_2nd_round_001
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-34-350
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-35-134
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated	98.795	166	2	0	1	166	5	170	1.06e-82	296	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-36-130
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-37-13
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-38-concatenated_2nd_round_014
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-393-concatenated_2nd_round_023
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-41-305
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-42-151
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-42-541
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-43-259
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-45-concatenated_2nd_round_028
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-50-concatenated_2nd_round_029
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated	98.795	166	2	0	1	166	5	170	1.06e-82	296	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-58-791
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-60-481
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-61-concatenated_2nd_round_052
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-63-concatenated_2nd_round_048
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-65-concatenated_2nd_round_018
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated	100.000	170	0	0	14	183	1	170	3.25e-88	315	183	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-68-615
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated	100.000	166	0	0	1	166	5	170	4.88e-86	307	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-810-concatenated_2nd_round_034
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-83-concatenated_2nd_round_006
+Tele02_primer_rm_dm_Met_1b_Tele02_concatenated																			consensus_medaka-subsampled_500-91-concatenated_2nd_round_030
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-10-1271
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-10-1384
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-10-1498
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-10-1570
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-10-1836
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-10-2054
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-10-2499
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-10-284
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-10-2941
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated	99.405	168	1	0	1	168	5	172	1.78e-85	305	168	172	2018537163	2018537163	Sprattus	sprattus	2018537163		consensus_medaka-subsampled_500-10-309
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-10-3564
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-10-356
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-10-360
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-103-concatenated_2nd_round_046
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-10-422
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-10-467
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-104-concatenated_2nd_round_114
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-10-579
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-10-6424
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-10-670
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-10-848
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-10-965
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-11-1038
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-11-148
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-11-1607
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-11-1703
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-11-190
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-11-2120
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated	98.802	167	1	1	1	167	5	170	1.06e-82	296	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-11-236
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-11-2490
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-11-2703
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-11-3123
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-11-370
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-113-concatenated_2nd_round_116
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-11-492
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-115-concatenated_2nd_round_094
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated	98.182	165	3	0	1	165	5	169	1.76e-80	289	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-11-6806
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-11-883
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated	100.000	166	0	0	1	166	5	170	4.88e-86	307	166	170	99642101	99642101	Ctenolabrus	rupestris	99642101		consensus_medaka-subsampled_500-11-914
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-121-concatenated_2nd_round_036
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-12-2097
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-12-2235
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-12-229
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-12-2493
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-12-330
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-12-61
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-12-694
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-12-703
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-12-728
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-12-768
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-13-1667
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated	98.824	170	2	0	12	181	1	170	6.95e-85	303	181	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-13-1769
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-133-concatenated_2nd_round_054
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-13-788
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-13-865
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-14-111
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-14-1268
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated	98.193	166	3	0	1	166	5	170	4.92e-81	291	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-14-1880
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-14-268
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-14-2753
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-14-56
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-14-99
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated	100.000	166	0	0	1	166	5	170	5.47e-86	307	184	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-15-1071
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-15-2096
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-16-1092
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-16-1243
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated	99.412	170	1	0	11	180	1	170	1.48e-86	309	180	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-16-1644
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-16-1695
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-163-concatenated_2nd_round_010
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-16-42
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-16-572
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-16-695
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-17-419
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-18-1135
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-18-1494
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-184-concatenated_2nd_round_050
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-18-709
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-18-81
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated	98.795	166	2	0	1	166	5	170	1.06e-82	296	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-19-1136
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-19-1164
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-194-concatenated_2nd_round_042
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-19-78
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-199-concatenated_2nd_round_016
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-20-1346
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-20-627
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-20-999
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-21-1392
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-21-3425
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-22-1401
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-22-2617
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-225-concatenated_2nd_round_074
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-22-concatenated_2nd_round_000
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-23-1229
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-23-1345
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-23-269
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated	98.802	167	1	1	1	167	5	170	1.06e-82	296	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-23-33
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-23-949
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-24-683
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-25-653
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-25-concatenated_2nd_round_144
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-26-202
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-26-324
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-26-357
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-26-776
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-27-concatenated_2nd_round_001
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-284-concatenated_2nd_round_022
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-30-1143
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-31-331
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated	100.000	170	0	0	13	182	1	170	3.23e-88	315	182	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-320-concatenated_2nd_round_073
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-32-concatenated_2nd_round_025
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-33-604
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-344-concatenated_2nd_round_039
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-34-551
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-34-concatenated_2nd_round_068
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-35-716
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-35-849
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-3883-concatenated_2nd_round_003
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-40-concatenated_2nd_round_062
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-41-139
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-41-concatenated_2nd_round_086
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-42-118
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-44-363
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-45-147
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-46-426
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-50-concatenated_2nd_round_061
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-51-concatenated_2nd_round_084
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-52-concatenated_2nd_round_026
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-52-concatenated_2nd_round_104
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-54-concatenated_2nd_round_044
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-56-303
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-563-concatenated_2nd_round_057
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-59-463
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-61-260
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated	100.000	166	0	0	1	166	5	170	4.88e-86	307	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-653-concatenated_2nd_round_005
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-69-concatenated_2nd_round_041
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-72-669
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-72-concatenated_2nd_round_024
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated	100.000	169	0	0	13	181	1	169	1.15e-87	313	181	169	2018537054	2018537054	Symphodus	melops	2018537054		consensus_medaka-subsampled_500-73-concatenated_2nd_round_076
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-77-concatenated_2nd_round_014
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-82-concatenated_2nd_round_083
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-845-concatenated_2nd_round_048
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-87-concatenated_2nd_round_101
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-88-concatenated_2nd_round_093
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-91-concatenated_2nd_round_067
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-93-166
+Tele02_primer_rm_dm_Met_1c_Tele02_concatenated																			consensus_medaka-subsampled_500-96-concatenated_2nd_round_059
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-10-17
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-10-197
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated	100.000	169	0	0	13	181	1	169	1.15e-87	313	181	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-101-concatenated_2nd_round_034
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-10-289
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-10-334
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-10-335
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-10-382
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-10-778
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated	97.590	166	1	1	1	163	5	170	2.90e-78	281	163	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-11-1006
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-11-1032
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-11-186
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated	98.204	167	2	1	1	167	5	170	4.95e-81	291	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-11-523
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-11-658
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-11-78
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-11-899
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated	98.795	166	1	1	1	165	5	170	4.28e-82	294	185	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-11-928
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated	99.415	171	0	1	14	184	1	170	1.52e-86	309	184	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-12-572
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-12-576
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-12-84
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated	98.193	166	3	0	1	166	5	170	4.92e-81	291	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-12-885
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated	97.619	168	2	1	1	168	5	170	6.45e-80	287	168	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-13-1
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-13-2520
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-13-3123
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated	99.248	133	1	0	35	167	1	133	5.06e-66	241	167	133	227463859	227463859	Pollachius	virens	227463859		consensus_medaka-subsampled_500-13-535
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated	93.902	164	9	1	1	164	5	167	1.09e-67	246	167	170	2018537178	2018537178	Enchelyopus	cimbrius	2018537178		consensus_medaka-subsampled_500-13-782
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-14-1193
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-14-152
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-14-2847
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-14-307
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated	98.795	166	2	0	1	166	5	170	1.06e-82	296	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-14-3654
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-14-40
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated	98.214	168	1	1	1	168	5	170	1.39e-81	292	168	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-14-431
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-149-concatenated_2nd_round_037
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated	99.412	170	1	0	13	182	1	170	1.50e-86	309	182	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-15-1044
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-15-109
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-15-287
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-15-304
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-15-305
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated	97.024	168	2	3	1	167	5	170	1.07e-77	279	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-15-569
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-15-620
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-157-concatenated_2nd_round_026
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-16-3562
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-16-455
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated	98.810	168	0	1	1	168	5	170	2.98e-83	298	168	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-16-717
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-17-251
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated	98.795	166	2	0	1	166	5	170	1.21e-82	296	187	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-17-265
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-19-75
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated	100.000	164	0	0	1	164	5	168	6.23e-85	303	164	168	1980526482	1980526482	Pholis	gunnellus	1980526482		consensus_medaka-subsampled_500-20-1407
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-22-3081
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-22-402
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-23-357
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-23-908
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-25-concatenated_2nd_round_032
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated	98.795	166	2	0	1	166	5	170	1.18e-82	296	184	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-27-159
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-277-concatenated_2nd_round_009
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-30-890
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-30-930
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated	99.387	163	0	1	1	162	5	167	3.70e-82	294	162	168	2018537251	2018537251	Trisopterus	minutus	2018537251		consensus_medaka-subsampled_500-30-concatenated_2nd_round_039
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-31-concatenated_2nd_round_025
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-33-280
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-35-829
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-37-concatenated_2nd_round_064
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-39-concatenated_2nd_round_035
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-407-concatenated_2nd_round_010
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-43-45
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-43-concatenated_2nd_round_063
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated	99.405	168	0	1	14	180	1	168	6.91e-85	303	180	168	2018537251	2018537251	Trisopterus	minutus	2018537251		consensus_medaka-subsampled_500-45-2180
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-46-concatenated_2nd_round_044
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-504-concatenated_2nd_round_020
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated	100.000	169	0	0	14	182	1	169	1.16e-87	313	182	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-50-concatenated_2nd_round_028
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-50-concatenated_2nd_round_061
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-54-196
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-57-concatenated_2nd_round_001
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated	100.000	166	0	0	1	166	5	170	5.54e-86	307	186	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-595-concatenated_2nd_round_008
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-66-240
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-66-concatenated_2nd_round_018
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-680-34
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-75-concatenated_2nd_round_023
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-89-concatenated_2nd_round_006
+Tele02_primer_rm_dm_Met_2a_Tele02_concatenated																			consensus_medaka-subsampled_500-924-concatenated_2nd_round_011
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated																			consensus_medaka-subsampled_500-10-1056
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated																			consensus_medaka-subsampled_500-10-1111
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	97.006	167	4	1	1	167	5	170	1.07e-77	279	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-10-1165
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated																			consensus_medaka-subsampled_500-10-1801
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated																			consensus_medaka-subsampled_500-10-184
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.182	165	3	0	2	166	6	170	1.77e-80	289	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-10-2707
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.824	170	2	0	16	185	1	170	7.12e-85	303	185	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-103-418
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated																			consensus_medaka-subsampled_500-10-408
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.795	166	2	0	1	166	5	170	1.20e-82	296	186	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-10-439
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	97.076	171	4	1	18	188	1	170	7.30e-80	287	188	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-10-503
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.795	166	2	0	1	166	5	170	1.06e-82	296	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-10-631
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	99.394	165	1	0	1	165	5	169	8.12e-84	300	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-108-concatenated_2nd_round_047
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.256	172	1	2	14	185	1	170	9.21e-84	300	185	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-11-1049
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	97.590	166	2	2	1	164	5	170	8.12e-79	283	164	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-11-1122
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.824	170	2	0	14	183	1	170	7.04e-85	303	183	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-11-1184
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	96.364	165	4	1	1	163	5	169	6.28e-75	270	163	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-11-1577
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated																			consensus_medaka-subsampled_500-11-1744
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated																			consensus_medaka-subsampled_500-11-235
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	97.024	168	3	2	1	168	5	170	3.00e-78	281	168	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-11-2363
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated																			consensus_medaka-subsampled_500-11-369
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated																			consensus_medaka-subsampled_500-11-397
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.204	167	1	2	1	166	5	170	4.92e-81	291	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-12-1199
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	97.006	167	4	1	1	167	5	170	1.07e-77	279	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-12-1329
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.780	164	1	1	4	167	8	170	4.95e-81	291	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-12-4057
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated																			consensus_medaka-subsampled_500-12-80
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated																			consensus_medaka-subsampled_500-13-328
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	100.000	170	0	0	14	183	1	170	3.25e-88	315	183	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-13-559
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	97.590	166	4	0	1	166	5	170	2.29e-79	285	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-13-568
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	99.398	166	1	0	1	166	5	170	2.56e-84	302	185	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-13-623
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated																			consensus_medaka-subsampled_500-13-640
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated																			consensus_medaka-subsampled_500-13-755
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated																			consensus_medaka-subsampled_500-13-894
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated																			consensus_medaka-subsampled_500-138-concatenated_2nd_round_024
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated																			consensus_medaka-subsampled_500-13-99
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated																			consensus_medaka-subsampled_500-14-1215
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	97.576	165	4	0	1	165	5	169	8.18e-79	283	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-14-1281
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated																			consensus_medaka-subsampled_500-14-156
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	97.590	166	2	2	1	165	5	169	8.18e-79	283	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-14-1641
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	97.590	166	3	1	1	165	5	170	8.18e-79	283	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-14-195
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.193	166	2	1	1	165	5	170	1.76e-80	289	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-14-230
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	97.605	167	2	2	1	166	5	170	2.29e-79	285	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-14-348
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	100.000	169	0	0	10	178	1	169	1.13e-87	313	178	169	2452988784	2452988784	Hyperoplus	immaculatus	2452988784		consensus_medaka-subsampled_500-14-3531
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.204	167	2	1	1	167	5	170	4.95e-81	291	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-14-394
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.780	164	0	2	1	163	8	170	4.82e-81	291	163	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-14-43
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.795	166	1	1	1	166	5	169	3.80e-82	294	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-14-451
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated																			consensus_medaka-subsampled_500-1453-concatenated_2nd_round_012
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	96.988	166	4	1	1	165	5	170	3.80e-77	278	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-14-545
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated																			consensus_medaka-subsampled_500-14-797
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated																			consensus_medaka-subsampled_500-14-871
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated																			consensus_medaka-subsampled_500-149-concatenated_2nd_round_058
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.802	167	0	2	1	166	5	170	1.06e-82	296	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-15-1236
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated																			consensus_medaka-subsampled_500-15-200
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.182	165	3	0	1	165	5	169	1.76e-80	289	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-15-309
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.204	167	1	2	1	166	5	170	5.54e-81	291	185	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-15-542
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated																			consensus_medaka-subsampled_500-15-648
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	96.407	167	5	1	1	167	5	170	4.99e-76	274	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-15-726
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.802	167	1	1	1	167	5	170	1.06e-82	296	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-16-1150
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.788	165	2	0	1	165	5	169	4.28e-82	294	185	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-16-598
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.204	167	2	1	1	167	5	170	4.95e-81	291	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-16-819
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated																			consensus_medaka-subsampled_500-16-955
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	99.415	171	0	1	13	183	1	170	1.51e-86	309	183	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-16-958
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated																			consensus_medaka-subsampled_500-17-1022
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	99.398	166	1	0	1	166	5	170	2.58e-84	302	186	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-17-173
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	100.000	165	0	0	2	166	6	170	2.03e-85	305	189	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-17-504
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.193	166	3	0	1	166	5	170	4.92e-81	291	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-17-862
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated																			consensus_medaka-subsampled_500-18-108
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.795	166	2	0	1	166	5	170	1.06e-82	296	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-18-1169
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.802	167	1	1	1	167	5	170	1.06e-82	296	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-18-138
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.795	166	2	0	1	166	5	170	1.06e-82	296	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-18-515
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	100.000	165	0	0	1	165	5	169	1.75e-85	305	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-187-concatenated_2nd_round_008
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.802	167	0	2	1	166	5	170	1.06e-82	296	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-19-1011
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated																			consensus_medaka-subsampled_500-19-1805
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	96.988	166	4	1	1	165	5	170	3.80e-77	278	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-19-334
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.795	166	1	1	1	166	5	169	4.28e-82	294	185	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-193-concatenated_2nd_round_027
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	97.590	166	3	1	1	166	5	169	8.23e-79	283	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-20-454
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.193	166	2	1	1	165	5	170	1.76e-80	289	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-20-621
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.182	165	3	0	1	165	5	169	1.77e-80	289	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-20-712
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.795	166	2	0	1	166	5	170	1.19e-82	296	185	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-20-76
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.824	170	2	0	14	183	1	170	7.04e-85	303	183	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-20-983
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	96.988	166	3	2	1	164	5	170	3.78e-77	278	164	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-20-985
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.193	166	3	0	1	166	5	170	4.92e-81	291	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-21-1794
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.214	168	1	1	1	168	5	170	1.39e-81	292	168	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-22-140
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	99.394	165	0	1	2	165	6	170	3.33e-83	298	186	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-22-456
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.214	168	1	1	1	168	5	170	1.39e-81	292	168	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-22-concatenated_2nd_round_055
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	100.000	159	0	0	1	159	5	163	3.88e-82	294	169	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-23-3865
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	100.000	166	0	0	1	166	5	170	5.50e-86	307	185	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-24-325
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated																			consensus_medaka-subsampled_500-24-383
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.795	166	1	1	1	166	5	169	3.80e-82	294	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-24-556
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.204	167	2	1	1	167	5	170	4.95e-81	291	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-25-223
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	97.006	167	3	2	1	166	5	170	1.19e-77	279	184	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-26-593
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.795	166	2	0	1	166	5	170	1.06e-82	296	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-27-113
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.802	167	0	1	1	167	5	169	1.06e-82	296	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-27-268
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated																			consensus_medaka-subsampled_500-27-461
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.795	166	2	0	1	166	5	170	1.06e-82	296	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-27-560
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	97.605	167	1	2	1	165	5	170	8.18e-79	283	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-29-821
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated																			consensus_medaka-subsampled_500-29-concatenated_2nd_round_071
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	100.000	165	0	0	1	165	5	169	1.75e-85	305	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-3093-concatenated_2nd_round_015
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated																			consensus_medaka-subsampled_500-30-concatenated_2nd_round_030
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated																			consensus_medaka-subsampled_500-31-490
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	97.590	166	1	1	1	163	5	170	2.90e-78	281	163	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-31-concatenated_2nd_round_050
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.125	160	2	1	4	162	11	170	3.73e-77	278	162	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-32-479
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated																			consensus_medaka-subsampled_500-32-611
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated																			consensus_medaka-subsampled_500-34-116
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.235	170	3	0	14	183	1	170	3.27e-83	298	183	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-34-1462
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	97.590	166	3	1	1	165	5	170	8.18e-79	283	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-34-concatenated_2nd_round_038
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	97.590	166	2	1	1	164	5	170	8.12e-79	283	164	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-34-concatenated_2nd_round_113
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.193	166	3	0	1	166	5	170	4.92e-81	291	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-36-366
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.214	168	1	1	1	168	5	170	1.39e-81	292	168	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-39-19
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.795	166	2	0	1	166	5	170	1.21e-82	296	188	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-40-701
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.204	167	2	1	1	167	5	170	4.95e-81	291	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-40-826
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	100.000	170	0	0	14	183	1	170	3.25e-88	315	183	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-410-362
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	99.398	166	1	0	1	166	5	170	2.27e-84	302	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-42-concatenated_2nd_round_004
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	100.000	165	0	0	1	165	5	169	1.75e-85	305	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-42-concatenated_2nd_round_057
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated																			consensus_medaka-subsampled_500-43-concatenated_2nd_round_044
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	97.590	166	3	1	1	165	5	170	8.45e-79	283	170	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-47-concatenated_2nd_round_013
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.193	166	3	0	1	166	5	170	4.92e-81	291	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-49-concatenated_2nd_round_093
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated																			consensus_medaka-subsampled_500-53-194
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.193	166	2	1	1	166	5	169	1.77e-80	289	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-54-246
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated																			consensus_medaka-subsampled_500-59-203
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	97.590	166	2	1	1	164	5	170	8.12e-79	283	164	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-63-concatenated_2nd_round_040
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	99.398	166	1	0	1	166	5	170	2.27e-84	302	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-68-concatenated_2nd_round_029
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.765	162	2	0	1	162	5	166	1.76e-80	289	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-70-concatenated_2nd_round_092
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.795	166	2	0	1	166	5	170	1.06e-82	296	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-71-488
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	100.000	166	0	0	1	166	5	170	5.47e-86	307	184	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-73-117
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.788	165	2	0	1	165	5	169	3.78e-82	294	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-81-1004
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.824	170	1	1	15	183	1	170	2.53e-84	302	183	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-82-279
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated																			consensus_medaka-subsampled_500-85-62
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	99.398	166	1	0	1	166	5	170	2.27e-84	302	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-87-concatenated_2nd_round_065
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	98.795	166	1	1	1	165	5	170	4.26e-82	294	184	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-92-concatenated_2nd_round_080
+Tele02_primer_rm_dm_Met_2c_Tele02_concatenated	97.576	165	2	2	1	163	5	169	2.90e-78	281	163	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-98-concatenated_2nd_round_031
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-100-623
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated	97.605	167	0	3	1	164	5	170	8.18e-79	283	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-10-1354
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-10-144
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-10-1713
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-10-1736
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated	98.817	169	1	1	14	181	1	169	8.99e-84	300	181	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-10-1833
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-10-198
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-10-211
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-10-2123
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-10-228
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-10-2552
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-10-27
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-10-3163
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated	97.059	170	3	2	13	180	1	170	2.50e-79	285	180	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-10-3423
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated	97.647	170	2	1	17	184	1	170	5.51e-81	291	184	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-10-3437
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated	100.000	166	0	0	1	166	5	170	4.88e-86	307	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-1054-concatenated_2nd_round_062
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-10-6334
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-10-768
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-10-7959
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-10-807
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-10-929
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated	99.405	168	1	0	1	168	5	172	1.78e-85	305	168	172	2018537163	2018537163	Sprattus	sprattus	2018537163		consensus_medaka-subsampled_500-10-98
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-109-concatenated_2nd_round_057
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-110-concatenated_2nd_round_087
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-11-1426
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-111-concatenated_2nd_round_009
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-11-685
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-12-1042
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-12-108
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-12-1166
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-12-1194
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-12-1360
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-12-154
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-12-1689
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-12-205
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-12-320
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-12-409
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-12-427
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-12-7921
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-12-876
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-129-386
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-13-1263
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-13-131
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-13-1542
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-13-1891
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-13-1914
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-13-3526
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-13-426
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-135-concatenated_2nd_round_001
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-13-860
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-13-87
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-14-1356
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-14-137
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-14-1450
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-14-1663
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-14-2144
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-14-2280
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-14-3358
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated	99.401	167	0	1	1	167	5	170	2.32e-84	302	169	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-14-543
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-14-7826
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-15-1116
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-15-1175
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-15-145
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-15-1776
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-15-2275
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-15-550
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-15-964
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-16-112
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-16-1538
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-16-162
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-16-209
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated	98.788	165	2	0	1	165	5	169	3.78e-82	294	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-16-2555
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-16-285
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-16-2991
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-16-4045
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-16-649
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-167-concatenated_2nd_round_072
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-16-940
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-17-1085
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-17-1371
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-17-1853
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-17-635
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-17-789
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-1796-concatenated_2nd_round_038
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-18-1819
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-185-concatenated_2nd_round_002
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-18-867
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-19-1785
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-19-4026
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-19-49
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-20-3854
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-20-603
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-20-627
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-20-841
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-21-1023
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-21-790
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-21-954
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-22-1307
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-22-236
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-22-258
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated	100.000	166	0	0	1	166	5	170	4.88e-86	307	166	170	99642101	99642101	Ctenolabrus	rupestris	99642101		consensus_medaka-subsampled_500-22-3081
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-22-578
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-22-636
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-22-concatenated_2nd_round_023
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-23-15
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-23-3235
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-24-1041
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-24-510
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-25-360
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-25-951
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-25-99
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-25-concatenated_2nd_round_053
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-26-457
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-26-concatenated_2nd_round_024
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-26-concatenated_2nd_round_043
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-276-concatenated_2nd_round_020
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-27-748
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-28-190
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-28-concatenated_2nd_round_080
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-29-418
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated	98.235	170	3	0	13	182	1	170	3.25e-83	298	182	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-29-759
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-29-concatenated_2nd_round_162
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-31-420
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-31-concatenated_2nd_round_006
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-33-1071
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-33-1338
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-33-concatenated_2nd_round_097
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-34-396
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-3516-concatenated_2nd_round_005
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-35-74
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-36-652
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-36-concatenated_2nd_round_081
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-36-concatenated_2nd_round_123
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-36-concatenated_2nd_round_164
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-37-715
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-38-167
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-392-concatenated_2nd_round_030
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-39-concatenated_2nd_round_058
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-41-concatenated_2nd_round_041
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-42-concatenated_2nd_round_003
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated	99.412	170	1	0	13	182	1	170	1.50e-86	309	182	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-42-concatenated_2nd_round_074
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-42-concatenated_2nd_round_084
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-43-concatenated_2nd_round_071
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-46-840
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-46-concatenated_2nd_round_010
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-473-concatenated_2nd_round_025
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-47-404
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-51-concatenated_2nd_round_141
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-52-concatenated_2nd_round_045
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-52-concatenated_2nd_round_146
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-53-163
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-56-concatenated_2nd_round_142
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-57-217
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-58-1383
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-59-406
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-61-351
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-68-concatenated_2nd_round_004
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-72-concatenated_2nd_round_077
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-72-concatenated_2nd_round_113
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-76-concatenated_2nd_round_035
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated	100.000	165	0	0	1	165	5	169	1.75e-85	305	165	169	2018537054	2018537054	Symphodus	melops	2018537054		consensus_medaka-subsampled_500-78-2219
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-82-2
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-83-concatenated_2nd_round_090
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-89-concatenated_2nd_round_088
+Tele02_primer_rm_dm_Met_3a_Tele02_concatenated																			consensus_medaka-subsampled_500-96-concatenated_2nd_round_114
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-10-1173
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.795	166	2	0	1	166	5	170	1.19e-82	296	185	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-10-1271
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.824	170	2	0	13	182	1	170	6.99e-85	303	182	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-10-1322
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	100.000	166	0	0	1	166	5	170	5.47e-86	307	184	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-101-330
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.235	170	1	2	14	181	1	170	1.16e-82	296	181	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-10-1513
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.810	168	2	0	17	184	3	170	9.16e-84	300	184	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-10-1587
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	97.024	168	3	2	1	168	5	170	3.00e-78	281	168	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-10-164
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-10-1963
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	95.808	167	4	3	1	166	5	169	8.29e-74	267	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-10-2067
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	97.006	167	2	3	1	165	5	170	3.80e-77	278	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-10-2712
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-104-228
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	93.413	167	7	4	1	164	5	170	3.83e-67	244	164	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-10-4504
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	97.633	169	1	1	1	169	5	170	6.49e-80	287	169	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-10-6877
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-108-concatenated_2nd_round_031
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	99.398	166	1	0	1	166	5	170	2.27e-84	302	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-108-concatenated_2nd_round_033
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	99.398	166	1	0	1	166	5	170	2.27e-84	302	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-108-concatenated_2nd_round_115
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.824	170	2	0	14	183	1	170	7.04e-85	303	183	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-110-concatenated_2nd_round_046
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-111-117
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	97.024	168	2	3	1	167	5	170	1.07e-77	279	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-11-1215
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-11-1300
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	97.041	169	3	1	15	181	1	169	9.06e-79	283	181	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-11-1526
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	97.006	167	3	2	1	166	5	170	1.06e-77	279	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-11-1643
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-11-2000
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.795	166	1	1	1	166	5	169	4.28e-82	294	185	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-112-329
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	96.988	166	3	1	1	164	5	170	3.78e-77	278	164	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-11-2834
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	97.605	167	2	2	1	167	5	169	2.30e-79	285	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-11-2898
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	100.000	169	0	0	14	182	1	169	1.16e-87	313	182	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-1152-concatenated_2nd_round_039
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	97.024	168	3	2	1	168	5	170	3.00e-78	281	168	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-11-654
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	97.661	171	2	2	14	183	1	170	1.52e-81	292	183	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-11-742
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.171	164	2	1	1	164	8	170	2.26e-79	285	164	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-11-815
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.817	169	1	1	14	181	1	169	8.99e-84	300	181	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-11-937
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-1199-concatenated_2nd_round_001
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-12-1081
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.788	165	2	0	1	165	5	169	4.31e-82	294	186	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-12-125
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-12-1337
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	96.512	172	2	4	14	183	1	170	3.30e-78	281	183	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-12-1433
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	97.576	165	4	0	1	165	5	169	9.22e-79	283	184	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-12-1581
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	97.076	171	3	2	14	183	1	170	7.09e-80	287	183	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-12-1929
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.795	166	2	0	1	166	5	170	1.06e-82	296	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-12-2607
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	97.619	168	2	1	15	180	2	169	6.96e-80	287	180	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-12-3937
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	96.407	167	4	2	1	167	5	169	4.99e-76	274	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-12-556
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	97.041	169	2	2	1	169	5	170	3.02e-78	281	169	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-12-558
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	96.491	171	1	3	1	171	5	170	3.96e-77	278	171	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-12-5938
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	99.387	163	1	0	4	166	8	170	1.06e-82	296	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-125-concatenated_2nd_round_054
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-12-6397
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	97.605	167	3	1	1	167	5	170	2.30e-79	285	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-12-779
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	97.605	167	3	1	1	167	5	170	2.30e-79	285	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-13-119
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	99.398	166	0	1	1	165	5	170	8.99e-84	300	181	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-13-1370
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-13-143
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	97.605	167	3	1	1	167	5	170	2.30e-79	285	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-13-1440
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	99.248	133	1	0	34	166	1	133	5.03e-66	241	166	133	227463859	227463859	Pollachius	virens	227463859		consensus_medaka-subsampled_500-13-1734
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-13-22
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	97.024	168	3	2	1	168	5	170	3.00e-78	281	168	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-13-2495
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-13-255
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	96.970	165	5	0	1	165	5	169	3.80e-77	278	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-13-409
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	95.808	167	6	1	1	167	5	170	2.32e-74	268	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-13-574
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-13-609
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-13-616
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	97.590	166	2	1	1	164	5	170	8.12e-79	283	164	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-13-6341
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-13-671
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	95.783	166	3	3	1	162	5	170	3.26e-73	265	180	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-13-735
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	96.875	160	2	3	6	164	12	169	2.94e-73	265	164	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-13-905
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.802	167	1	1	1	167	5	170	1.06e-82	296	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-13-98
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	99.398	166	1	0	1	166	5	170	2.27e-84	302	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-139-concatenated_2nd_round_000
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.193	166	1	2	1	165	5	169	2.02e-80	289	187	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-14-104
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.824	170	2	0	12	181	1	170	6.95e-85	303	181	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-14-1233
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-14-1399
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.830	171	1	1	14	184	1	170	7.08e-85	303	184	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-141-concatenated_2nd_round_118
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-14-281
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-14-3062
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.795	166	2	0	1	166	5	170	1.06e-82	296	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-14-467
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-14-925
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	97.006	167	4	1	1	167	5	170	1.20e-77	279	185	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-15-1361
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-15-1449
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-15-1507
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	97.605	167	3	1	1	167	5	170	2.30e-79	285	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-15-2036
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	96.970	165	4	1	1	165	5	168	1.39e-76	276	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-15-6418
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	97.590	166	3	1	1	165	5	170	8.18e-79	283	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-16-1033
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.204	167	2	1	1	167	5	170	5.58e-81	291	186	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-16-257
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-16-568
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.795	166	2	0	1	166	5	170	1.06e-82	296	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-16-610
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.204	167	0	2	1	165	5	170	1.77e-80	289	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-16-995
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-16-99
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.817	169	2	0	11	179	1	169	2.47e-84	302	179	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-17-1291
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	99.398	166	0	1	1	165	5	170	8.12e-84	300	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-178-concatenated_2nd_round_036
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-18-203
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.810	168	1	1	1	168	4	170	2.98e-83	298	168	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-185-concatenated_2nd_round_056
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.193	166	2	1	1	165	5	170	1.98e-80	289	184	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-186-concatenated_2nd_round_123
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	95.238	168	4	4	1	166	5	170	1.07e-72	263	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-18-852
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.193	166	3	0	1	166	5	170	4.92e-81	291	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-19-1069
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-19-16
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	96.988	166	4	1	1	166	5	169	3.83e-77	278	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-19-408
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-19-712
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-20-1438
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-20-1863
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	97.633	169	1	1	1	169	5	170	6.49e-80	287	169	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-20-190
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.817	169	2	0	14	182	1	169	2.52e-84	302	182	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-20-899
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	100.000	170	0	0	16	185	1	170	3.29e-88	315	185	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-21-1185
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-21-198
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	97.024	168	3	2	1	168	5	170	3.00e-78	281	168	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-21-6128
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.235	170	0	1	8	174	1	170	4.01e-82	294	174	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-21-771
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-217-concatenated_2nd_round_012
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.204	167	2	1	1	167	5	170	4.95e-81	291	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-22-615
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	97.024	168	3	2	1	168	5	170	3.00e-78	281	168	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-22-669
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.193	166	2	1	1	165	5	170	1.76e-80	289	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-22-683
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	95.652	161	5	2	1	161	5	163	5.06e-71	257	168	170	821091566	821091566	Pollachius	pollachius	821091566		consensus_medaka-subsampled_500-22-739
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	99.398	166	1	0	1	166	5	170	2.27e-84	302	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-227-concatenated_2nd_round_016
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-22-concatenated_2nd_round_057
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.830	171	1	1	11	181	1	170	6.95e-85	303	181	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-23-1163
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.193	166	2	1	1	165	5	170	2.04e-80	289	189	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-24-156
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.193	166	2	1	1	165	5	170	1.76e-80	289	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-24-1667
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	97.605	167	3	1	1	167	5	170	2.30e-79	285	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-24-6637
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.817	169	2	0	14	182	1	169	2.52e-84	302	182	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-250-concatenated_2nd_round_045
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	99.398	166	1	0	1	166	5	170	2.58e-84	302	186	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-25-1116
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.795	166	2	0	1	166	5	170	1.06e-82	296	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-25-849
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-25-concatenated_2nd_round_024
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	97.590	166	4	0	1	166	5	170	2.29e-79	285	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-26-1243
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.204	167	2	1	1	167	5	170	4.95e-81	291	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-27-1775
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	97.661	171	1	2	11	179	1	170	5.35e-81	291	179	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-27-2401
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.193	166	3	0	1	166	5	170	4.92e-81	291	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-27-338
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.802	167	1	1	1	167	5	170	1.06e-82	296	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-28-1131
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	100.000	165	0	0	1	165	5	169	1.75e-85	305	165	169	2452988784	2452988784	Hyperoplus	immaculatus	2452988784		consensus_medaka-subsampled_500-28-1685
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.235	170	2	1	12	180	1	170	1.16e-82	296	180	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-28-289
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	100.000	166	0	0	1	166	5	170	5.50e-86	307	185	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-282-concatenated_2nd_round_017
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-28-469
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-28-987
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.193	166	3	0	1	166	5	170	4.92e-81	291	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-29-140
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.795	166	1	1	1	165	5	170	3.78e-82	294	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-301-concatenated_2nd_round_116
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.193	166	2	1	1	166	5	169	1.77e-80	289	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-30-663
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	97.590	166	4	0	1	166	5	170	2.29e-79	285	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-30-933
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	97.590	166	3	1	1	165	5	170	8.18e-79	283	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-31-concatenated_2nd_round_128
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	100.000	166	0	0	1	166	5	170	4.88e-86	307	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-3204-concatenated_2nd_round_007
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.788	165	2	0	2	166	6	170	3.80e-82	294	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-32-1014
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.204	167	2	1	1	167	5	170	4.95e-81	291	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-32-concatenated_2nd_round_075
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	97.590	166	1	1	1	163	5	170	2.90e-78	281	163	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-32-concatenated_2nd_round_162
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.193	166	3	0	1	166	5	170	4.92e-81	291	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-33-1721
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	97.590	166	4	0	1	166	5	170	2.29e-79	285	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-33-504
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-34-concatenated_2nd_round_003
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-36-731
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.193	166	1	2	1	165	5	169	1.76e-80	289	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-37-concatenated_2nd_round_136
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.824	170	2	0	14	183	1	170	7.04e-85	303	183	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-38-873
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-39-300
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	97.590	166	2	2	1	164	5	170	8.12e-79	283	164	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-39-concatenated_2nd_round_122
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	97.006	167	4	1	1	167	5	170	1.22e-77	279	188	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-40-446
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-40-810
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	97.605	167	3	1	1	167	5	170	2.30e-79	285	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-41-188
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	99.394	165	1	0	1	165	5	169	9.16e-84	300	184	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-42-88
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-43-332
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.193	166	1	1	1	164	5	170	1.75e-80	289	164	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-43-concatenated_2nd_round_052
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.795	166	2	0	1	166	5	170	1.06e-82	296	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-44-477
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-46-75
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.182	165	3	0	1	165	5	169	1.76e-80	289	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-48-421
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-52-400
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.810	168	0	1	1	168	5	170	2.98e-83	298	168	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-54-456
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.795	166	2	0	1	166	5	170	1.06e-82	296	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-57-695
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated																			consensus_medaka-subsampled_500-64-81
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	95.783	166	6	1	1	165	5	170	8.24e-74	267	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-69-concatenated_2nd_round_151
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.824	170	2	0	14	183	1	170	7.04e-85	303	183	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-70-concatenated_2nd_round_113
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	99.412	170	1	0	13	182	1	170	1.50e-86	309	182	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-71-491
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	99.394	165	1	0	1	165	5	169	8.12e-84	300	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-76-concatenated_2nd_round_112
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.802	167	0	2	1	166	5	170	1.06e-82	296	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-86-793
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	99.401	167	0	1	18	184	5	170	2.55e-84	302	184	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-89-concatenated_2nd_round_080
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	98.802	167	1	1	1	167	5	170	1.06e-82	296	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-90-concatenated_2nd_round_091
+Tele02_primer_rm_dm_Met_3b_Tele02_concatenated	97.576	165	2	1	1	163	5	169	2.90e-78	281	163	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-93-concatenated_2nd_round_154
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-10-1433
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	97.605	167	1	2	1	165	5	170	8.18e-79	283	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-10-1651
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-10-2154
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	97.647	170	3	1	14	182	1	170	5.44e-81	291	182	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-10-2257
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-10-2638
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-10-2691
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	97.590	166	3	1	1	166	5	169	8.23e-79	283	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-10-2936
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-10-319
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-10-327
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	96.407	167	5	1	1	167	5	170	4.99e-76	274	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-10-3518
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.795	166	2	0	1	166	5	170	1.06e-82	296	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-10-352
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-103-concatenated_2nd_round_005
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	100.000	166	0	0	1	166	5	170	5.47e-86	307	184	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-107-183
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	97.006	167	2	3	1	165	5	170	3.80e-77	278	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-10-791
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-10-959
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.204	167	1	2	1	167	5	169	4.95e-81	291	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-11-1062
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.204	167	2	1	1	167	5	170	4.95e-81	291	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-11-1149
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	97.576	165	4	0	1	165	5	169	8.18e-79	283	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-11-1174
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	95.266	169	5	1	1	169	5	170	3.04e-73	265	169	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-11-1206
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	97.041	169	3	2	15	182	1	168	9.17e-79	283	183	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-11-1269
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.193	166	3	0	1	166	5	170	4.92e-81	291	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-11-128
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.193	166	2	1	1	165	5	170	1.76e-80	289	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-11-1293
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	96.491	171	4	2	14	183	1	170	3.30e-78	281	183	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-11-1335
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-11-1401
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-11-1834
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	97.576	165	3	1	1	164	5	169	3.28e-78	281	182	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-11-1953
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-11-1954
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.246	171	2	1	14	184	1	170	3.31e-83	298	185	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-11-1987
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.225	169	0	2	17	183	3	170	1.52e-81	292	183	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-11-2105
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-11-2375
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	97.605	167	3	1	1	167	5	170	2.30e-79	285	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-11-3209
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-11-475
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-11-556
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-11-561
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	97.059	170	0	3	1	169	5	170	3.02e-78	281	169	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-11-7342
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.214	168	1	2	1	168	5	170	1.39e-81	292	168	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-11-870
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-12-1083
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	95.210	167	5	3	1	165	5	170	3.83e-72	261	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-12-1193
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	99.248	133	1	0	30	162	1	133	4.89e-66	241	162	133	227463859	227463859	Pollachius	virens	227463859		consensus_medaka-subsampled_500-12-1322
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.204	167	2	1	1	167	5	170	4.95e-81	291	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-121-concatenated_2nd_round_007
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-12-378
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-12-4827
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	97.605	167	2	2	1	166	5	170	2.66e-79	285	190	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-12-63
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.193	166	2	1	1	165	5	170	1.76e-80	289	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-12-679
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	100.000	166	0	0	1	166	5	170	5.54e-86	307	186	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-13-1017
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.795	166	2	0	1	166	5	170	1.06e-82	296	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-13-1349
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	97.605	167	3	1	1	167	5	170	2.30e-79	285	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-13-1409
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	97.590	166	3	1	1	165	5	170	8.18e-79	283	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-13-1482
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-13-1663
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-13-1813
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	100.000	166	0	0	1	166	5	170	5.50e-86	307	185	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-131-concatenated_2nd_round_027
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-13-2898
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	95.210	167	4	4	1	164	5	170	3.81e-72	261	164	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-13-3133
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	97.605	167	2	2	1	166	5	170	2.29e-79	285	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-13-429
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-13-822
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-14-1372
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.795	166	2	0	1	166	5	170	1.06e-82	296	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-14-1391
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.193	166	3	0	1	166	5	170	4.92e-81	291	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-14-1506
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.795	166	2	0	1	166	5	170	1.06e-82	296	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-14-1700
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.788	165	2	0	1	165	5	169	4.21e-82	294	182	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-14-2574
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-142-concatenated_2nd_round_020
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.824	170	2	0	12	181	1	170	6.95e-85	303	181	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-14-3074
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	97.605	167	3	1	1	167	5	170	2.30e-79	285	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-14-3565
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-14-376
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.780	164	1	1	1	164	5	167	4.95e-81	291	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-14-60
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	99.398	166	1	0	1	166	5	170	2.52e-84	302	182	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-14-813
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.817	169	1	1	14	181	1	169	8.99e-84	300	181	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-15-1267
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.193	166	2	1	1	165	5	170	1.76e-80	289	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-15-1811
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.824	170	1	1	15	183	1	170	2.53e-84	302	183	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-15-2088
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	97.590	166	3	1	1	166	5	169	8.23e-79	283	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-15-229
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-15-492
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.182	165	3	0	1	165	5	169	1.76e-80	289	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-15-5106
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-15-803
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-158-105
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-15-8896
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.802	167	0	2	1	166	5	170	1.06e-82	296	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-159-concatenated_2nd_round_061
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.193	166	3	0	1	166	5	170	4.92e-81	291	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-160-405
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	96.988	166	4	1	1	165	5	170	3.80e-77	278	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-16-1047
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	96.988	166	2	1	1	163	5	170	1.35e-76	276	163	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-16-1792
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.802	167	1	1	1	167	5	170	1.06e-82	296	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-16-2707
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-16-507
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-16-564
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	97.633	169	0	4	1	168	5	170	6.45e-80	287	168	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-16-7360
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	97.590	166	4	0	1	166	5	170	2.29e-79	285	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-17-1539
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-17-1767
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-17-3220
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.204	167	1	2	1	166	5	170	4.92e-81	291	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-17-3569
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	96.386	166	4	1	1	164	5	170	2.01e-75	272	185	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-17-481
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-17-696
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	97.576	165	2	2	1	163	5	169	2.90e-78	281	163	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-18-1306
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-183-concatenated_2nd_round_012
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.193	166	3	0	1	166	5	170	4.92e-81	291	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-18-709
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.214	168	1	2	1	168	5	170	1.39e-81	292	168	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-18-779
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.193	166	3	0	1	166	5	170	4.92e-81	291	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-18-890
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	96.386	166	4	1	1	164	5	170	1.76e-75	272	164	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-19-1291
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.182	165	3	0	1	165	5	169	1.76e-80	289	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-19-2155
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.193	166	3	0	1	166	5	170	4.92e-81	291	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-19-592
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	100.000	170	0	0	14	183	1	170	3.25e-88	315	183	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-198-concatenated_2nd_round_050
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.193	166	3	0	1	166	5	170	4.92e-81	291	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-20-2573
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.214	168	1	1	1	168	5	170	1.39e-81	292	168	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-20-622
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-208-concatenated_2nd_round_086
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-21-300
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.830	171	0	2	14	183	1	170	7.04e-85	303	183	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-21-533
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-22-122
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	97.619	168	1	2	1	168	5	169	2.32e-79	285	168	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-22-260
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.795	166	2	0	1	166	5	170	1.06e-82	296	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-22-528
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	99.398	166	1	0	1	166	5	170	2.56e-84	302	185	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-227-115
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-23-103
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	97.605	167	2	1	1	167	5	169	2.56e-79	285	184	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-23-1347
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	99.398	166	1	0	1	166	5	170	2.50e-84	302	181	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-23-1729
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	100.000	155	0	0	8	162	16	170	6.19e-80	287	162	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-23-280
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-24-1389
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.795	166	1	1	1	165	5	170	3.78e-82	294	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-244-concatenated_2nd_round_047
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-2481-concatenated_2nd_round_004
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-24-concatenated_2nd_round_035
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-25-164
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-25-2679
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	97.576	165	3	1	1	165	5	168	2.96e-78	281	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-25-318
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	97.619	168	2	2	1	168	5	170	6.45e-80	287	168	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-25-357
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.193	166	3	0	1	166	5	170	4.92e-81	291	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-25-3773
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	97.576	165	4	0	1	165	5	169	9.17e-79	283	183	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-26-1069
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-26-1160
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.256	172	1	2	13	184	1	170	9.16e-84	300	184	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-26-1629
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-26-398
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.795	166	2	0	1	166	5	170	1.06e-82	296	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-26-713
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	99.398	166	1	0	1	166	5	170	2.58e-84	302	186	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-268-concatenated_2nd_round_014
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-26-concatenated_2nd_round_010
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-26-concatenated_2nd_round_106
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	97.647	170	4	0	14	183	1	170	1.52e-81	292	183	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-27-1496
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	97.590	166	2	1	1	164	5	170	8.12e-79	283	164	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-27-2403
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-27-863
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	96.933	163	5	0	1	163	5	167	4.95e-76	274	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-28-3227
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.810	168	0	1	1	168	5	170	2.98e-83	298	168	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-29-289
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.193	166	3	0	1	166	5	170	4.95e-81	291	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-29-concatenated_2nd_round_037
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	100.000	165	0	0	1	165	5	169	1.75e-85	305	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-29-concatenated_2nd_round_076
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.795	166	2	0	1	166	5	170	1.06e-82	296	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-30-1092
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	97.561	164	2	2	1	163	5	167	1.06e-77	279	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-30-1276
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-30-concatenated_2nd_round_103
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.824	170	2	0	15	184	1	170	7.08e-85	303	184	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-30-concatenated_2nd_round_129
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-31-626
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	97.590	166	2	2	1	164	5	170	8.12e-79	283	164	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-31-concatenated_2nd_round_138
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-32-358
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.824	170	2	0	14	183	1	170	7.04e-85	303	183	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-33-concatenated_2nd_round_048
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.802	167	1	1	1	167	5	170	1.06e-82	296	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-33-concatenated_2nd_round_117
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-34-1022
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-34-129
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-34-concatenated_2nd_round_009
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.788	165	2	0	1	165	5	169	3.78e-82	294	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-34-concatenated_2nd_round_142
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	97.590	166	4	0	1	166	5	170	2.29e-79	285	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-35-1365
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	99.401	167	0	1	1	167	5	170	2.29e-84	302	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-357-concatenated_2nd_round_058
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-35-concatenated_2nd_round_090
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	97.590	166	3	1	1	165	5	170	8.18e-79	283	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-35-concatenated_2nd_round_171
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-38-concatenated_2nd_round_018
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.193	166	2	1	1	165	5	170	1.76e-80	289	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-38-concatenated_2nd_round_036
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-40-concatenated_2nd_round_069
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	100.000	166	0	0	1	166	5	170	4.88e-86	307	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-4135-concatenated_2nd_round_002
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-41-concatenated_2nd_round_019
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.795	166	2	0	1	166	5	170	1.06e-82	296	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-41-concatenated_2nd_round_021
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	96.988	166	4	1	1	165	5	170	3.80e-77	278	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-41-concatenated_2nd_round_126
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-42-concatenated_2nd_round_039
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	100.000	170	0	0	14	183	1	170	3.25e-88	315	183	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-45-348
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-46-580
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.795	166	2	0	1	166	5	170	1.06e-82	296	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-47-concatenated_2nd_round_146
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	99.398	166	1	0	1	166	5	170	2.27e-84	302	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-48-concatenated_2nd_round_102
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.802	167	1	1	1	167	5	170	1.06e-82	296	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-49-concatenated_2nd_round_056
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	99.412	170	1	0	15	184	1	170	1.52e-86	309	184	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-57-1114
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	97.590	166	1	1	1	163	5	170	2.90e-78	281	163	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-57-concatenated_2nd_round_049
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-57-concatenated_2nd_round_121
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-58-concatenated_2nd_round_017
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	99.398	166	0	1	17	182	3	167	9.21e-84	300	185	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-62-concatenated_2nd_round_013
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-62-concatenated_2nd_round_119
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.193	166	2	1	1	165	5	170	1.76e-80	289	165	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-63-concatenated_2nd_round_011
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.193	166	3	0	1	166	5	170	5.58e-81	291	186	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-64-concatenated_2nd_round_111
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.802	167	1	1	1	167	5	170	1.06e-82	296	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-67-concatenated_2nd_round_084
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	97.590	166	4	0	1	166	5	170	2.29e-79	285	166	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-70-1592
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	100.000	170	0	0	14	183	1	170	3.25e-88	315	183	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-70-573
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.802	167	1	1	1	167	5	170	1.06e-82	296	167	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-71-concatenated_2nd_round_081
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	97.590	166	2	1	1	164	5	170	8.12e-79	283	164	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-71-concatenated_2nd_round_165
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	99.401	167	0	1	1	167	5	170	2.56e-84	302	185	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-77-concatenated_2nd_round_023
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-78-149
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-79-541
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated	98.824	170	2	0	15	184	1	170	7.08e-85	303	184	170	821091563	821091563	Pollachius	virens	821091563		consensus_medaka-subsampled_500-90-concatenated_2nd_round_053
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-92-concatenated_2nd_round_181
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-97-concatenated_2nd_round_031
+Tele02_primer_rm_dm_Met_3c_Tele02_concatenated																			consensus_medaka-subsampled_500-99-concatenated_2nd_round_022

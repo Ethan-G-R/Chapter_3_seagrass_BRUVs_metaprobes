@@ -1,0 +1,12 @@
+
+Making a blast database
+
+cd /uoa/scratch/users/r01er21/Sea_DNA_12S_db
+
+module load blast-plus/2.12.0
+
+makeblastdb -in references.12s.miya.dada.species.v258.fasta -dbtype nucl -out /uoa/scratch/users/r01er21/Sea_DNA_12S_db
+
+### This is the db location
+
+/uoa/scratch/users/r01er21/Sea_DNA_12S_db/Sea_DNA_12S_db

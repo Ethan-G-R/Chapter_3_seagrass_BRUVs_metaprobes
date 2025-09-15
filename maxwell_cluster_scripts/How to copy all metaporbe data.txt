@@ -1,0 +1,6 @@
+Copy a directory into a new directory
+
+cp -r /uoa/scratch/users/r01er21/R10_ALL_Metaprobe_Flongle_Runs_demultiplexed_and_trimmed/All_RUNS_untouched/RUN1 /uoa/scratch/users/r01er21/R10_ALL_Metaprobe_Flongle_Runs_demultiplexed_and_trimmed/
+cp -r /uoa/scratch/users/r01er21/R10_ALL_Metaprobe_Flongle_Runs_demultiplexed_and_trimmed/All_RUNS_untouched/RUN2 /uoa/scratch/users/r01er21/R10_ALL_Metaprobe_Flongle_Runs_demultiplexed_and_trimmed/
+cp -r /uoa/scratch/users/r01er21/R10_ALL_Metaprobe_Flongle_Runs_demultiplexed_and_trimmed/All_RUNS_untouched/RUN3 /uoa/scratch/users/r01er21/R10_ALL_Metaprobe_Flongle_Runs_demultiplexed_and_trimmed/
+cp -r /uoa/scratch/users/r01er21/R10_ALL_Metaprobe_Flongle_Runs_demultiplexed_and_trimmed/All_RUNS_untouched/RUN4 /uoa/scratch/users/r01er21/R10_ALL_Metaprobe_Flongle_Runs_demultiplexed_and_trimmed/
