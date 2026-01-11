@@ -159,7 +159,9 @@ library(iNEXT)
 
 ######## Get my data
 
-load("working_phyloseq_data/met_bruv_pseq_glom_sp.RData")
+load("C:/Users/r01er21/OneDrive - University of Aberdeen/Chapter 3 Metaprobe results/Chapter_3_seagrass_BRUV_metaprobes_GIT/working_phyloseq_data/met_bruv_pseq_glom_sp.RData")
+
+#load("working_phyloseq_data/met_bruv_pseq_glom_sp.RData")
 
 tax_table(met_bruv_pseq_sp)
 otu_table(met_bruv_pseq_sp)
@@ -210,6 +212,8 @@ AccCurve_12S <- data.frame(meta_data_full_deployment[,c(1,2)], AccCurve_12S)
 # the second column (deployment) is removed since all values are the same after
 # which selects for specific deployment
 # Row names are then turned into a column
+
+AccCurve_12S 
 
 Accdep1 <- AccCurve_12S[which(AccCurve_12S$deployment == '1'),-2]
 Accdep1 <- as.data.frame(t(Accdep1))

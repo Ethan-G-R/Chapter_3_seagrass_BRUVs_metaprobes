@@ -103,3 +103,11 @@ print(met_conc_plot)
 
 ggsave(filename = "supplimentary/metaprobe_DNA_concentration.png", plot = met_conc_plot,
        device = "png", dpi = 600, units = "mm", height = 150, width = 200)
+
+ggsave(filename = "supplimentary/metaprobe_DNA_concentration.png", plot = met_conc_plot,
+       device = "png", dpi = 600, units = "mm", height = 150, width = 200)
+
+ggsave(filename = "supplimentary/metaprobe_DNA_concentration.pdf", 
+       plot = met_conc_plot,
+       dpi = 600, units = "mm", height = 150, width = 200)
+

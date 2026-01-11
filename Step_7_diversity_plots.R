@@ -337,11 +337,15 @@ ggsave(filename = "plots/composite_plots/alpha_with_NMDS_jacc_sp_and_gen.png", p
 ggsave(filename = "plots/alpha_diversity/alpha_sp.png", plot = alpha_point,
        device = "png", dpi = 600, units = "mm", height = 125, width = 200)
 
+#################################################################################
+
 ggsave(filename = "plots/beta_diversity/beta_NMDS_jacc_sp_and_gen.png", plot = jaccard_NMDS_sp,
        device = "png", dpi = 600, units = "mm", height = 200, width = 250)
 
 
-
+ggsave(filename = "plots/beta_diversity/beta_NMDS_jacc_sp_and_gen.pdf", 
+       plot = jaccard_NMDS_sp,
+       dpi = 600, units = "mm", height = 200, width = 250)
 
 
 
