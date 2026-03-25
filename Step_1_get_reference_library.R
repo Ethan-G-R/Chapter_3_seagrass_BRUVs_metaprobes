@@ -1,5 +1,4 @@
 # 25.06.25
-# Ethan Ross
 
 ## In this script we will get the seaDNA database for the UK
 

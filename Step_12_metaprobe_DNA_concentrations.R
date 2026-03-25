@@ -1,5 +1,4 @@
 # 13.10.25
-# Ethan Ross
 
 # In this script I will plot the metaprobe gauze DNA concentrations pre and post PCR
 

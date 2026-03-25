@@ -1,5 +1,4 @@
 # 06.08.25
-# Ethan Ross
 
 # I will get binary data of presence absence across deployments in prep for a 
 # GLMM to test if detection by BRUV results in higher detection frequency

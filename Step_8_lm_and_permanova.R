@@ -1,5 +1,4 @@
 # 08.08.25
-# Ethan Ross
 
 # In this script I will carry out a restricted permutation PERMANOVA
 # on my Metaprobe data

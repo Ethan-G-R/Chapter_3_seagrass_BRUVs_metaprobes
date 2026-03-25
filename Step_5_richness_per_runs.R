@@ -1,5 +1,4 @@
 # 02.07.2025
-# Ethan Ross
 
 # In this script I will get taxa richness for my MiFishU and Tele02 datasets
 

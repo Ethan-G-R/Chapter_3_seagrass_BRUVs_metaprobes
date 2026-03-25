@@ -1,5 +1,4 @@
 # 03.07.25
-# Ethan Ross
 
 # In this script I will create species accumulation curves
 
