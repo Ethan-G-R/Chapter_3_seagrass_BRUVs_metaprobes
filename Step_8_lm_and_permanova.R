@@ -74,6 +74,12 @@ adonis2(jaccard_dist ~ deployment, data = metadata, permutations = 9999, strata 
 
 adonis2(jaccard_dist ~ deployment, data = metadata, permutations = 9999)
 
+### Check for heterogenity of variance 
+
+disp_model <- betadisper(jaccard_dist, group = metadata$deployment)
+
+# Perform a permutation test to see if dispersions differ significantly
+permutest(disp_model)
 
 
 
