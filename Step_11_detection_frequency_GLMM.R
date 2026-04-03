@@ -35,6 +35,18 @@ null_model <- glmer(
 
 anova(model, null_model, test = "Chisq")
 
+#### Overdispersion 
+
+# Calculate the dispersion ratio
+resid_pearson <- residuals(model, type = "pearson")
+n <- nrow(analysis_data)
+p <- length(fixef(model)) + length(ranef(model)) # parameters
+rdf <- n - p
+dispersion_ratio <- sum(resid_pearson^2) / rdf
+
+print(dispersion_ratio)
+
+
 ################################################################################
 
 str(analysis_data)
@@ -55,6 +67,18 @@ null_model_2 <- glmer(
 )
 
 anova(model_2, null_model_2, test = "Chisq")
+
+#### Overdispersion 
+
+# Calculate the dispersion ratio
+resid_pearson <- residuals(model_2, type = "pearson")
+n <- nrow(analysis_data)
+p <- length(fixef(model_2)) + length(ranef(model)) # parameters
+rdf <- n - p
+dispersion_ratio <- sum(resid_pearson^2) / rdf
+
+print(dispersion_ratio)
+
 
 ################################################################################
 
