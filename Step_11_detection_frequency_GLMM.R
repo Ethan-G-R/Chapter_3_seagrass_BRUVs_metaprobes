@@ -1,5 +1,4 @@
 # 13.10.25
-# Ethan Ross
 
 # I will use a GLMM to test if detection by BRUV results in higher detection frequency
 

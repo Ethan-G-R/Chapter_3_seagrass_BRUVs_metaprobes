@@ -1,5 +1,4 @@
 # 23.06.25
-# Ethan Ross
 
 # In this script I will get the read counts for my metaprobe samples
 # I have created a .csv file from the fastq files on the cluster
